@@ -7,7 +7,6 @@ Sure, here's a template for a README file for your Data Visualization Dashboard 
 
 # Data Visualization Dashboard using MERN Stack
 
-![Dashboard Screenshot](screenshot.png) <!-- Replace with an actual screenshot of your dashboard -->
 
 ## Description
 
@@ -57,14 +56,6 @@ This project is a dynamic Data Visualization Dashboard created using the MERN (M
 - Explore the interactive charts and visualizations.
 - Apply filters to customize data views and gain insights.
 
-## Contributors
 
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to customize this README template according to your project's specifics and add any additional information you think is necessary. Make sure to include proper instructions for setting up and running the project, along with credits and licenses as applicable.
